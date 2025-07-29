@@ -1,2 +1,2 @@
 # ColtsAI
-I spent 15 hors on this 
+I spent 15 hours on this 
